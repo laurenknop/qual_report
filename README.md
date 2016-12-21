@@ -15,6 +15,9 @@ Ch 5. Frequency Response Analysis
 	Sect 5-2 : Plotting Nyquist diagrams
 		Example 5-7 : Example 5:15
 
+	Sect 5-3 : Log - Magniutde Vs Phase Plots (Nichols Plots)
+		Example 5-16 : Example 5:18
+
 Ch 6. State-Space Design of Control System 
 
 Ch 7. Optimization Problems 
