@@ -70,8 +70,10 @@ sys_min = minreal(sys)
     % There is an (s + 1) term in the numerator and denominator of the tf
     % that need to be canceled out in order for the rank to equal 3 for the
     % observable state. 
+
     
-% new state matrices
+%% 6-2 New state matrices to determine controlability/observability
+
 A2 = [ 1 0; 0 -1];
 B2 = [1; 0];
 C2 = [1 1];
