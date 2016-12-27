@@ -22,6 +22,9 @@ Ch 5. Frequency Response Analysis
 		Example 5-19 : Example 5:21
 
 Ch 6. State-Space Design of Control System 
+    
+    Sect 6-2 : Controllability and Observability
+        Example 6-1
 
 Ch 7. Optimization Problems 
 
