@@ -25,7 +25,7 @@ clc
 % 
 % The GM and PM or a first/second order system are infinite bc the polar
 % plots do not cross the negative real axis. Theoretically, first and
-% second order systems cannont be unstable...but not true. 
+% second order systems cannot be unstable...but not true. 
 % Only use for measures of closeness of the polar plot to the [-1 + j0]
 % point. Use as a design criteria. 30 < PM < 60 and GM > 6dB for
 % satifactory performance. 
@@ -63,6 +63,7 @@ w = logspace(-1, 2, 100);
 
 figure; 
 bode(sys, w),grid
+title('Example5-20 : GM/PM using Bode Diagram of Open Loop TF/Closed loop sys')
 [GM, PM, wcp, wcg] = margin(sys);
 GM_dB = 20*log10(GM);
 margins = [GM_dB PM, wcp, wcg]
@@ -80,6 +81,7 @@ w = logspace(-1, 1);
 
 figure; 
 bode(sys, w), grid
+title('Example5-21 : GM/PM using Bode Diagram for the Closed loop sys')
 [mag, ph, w] = bode(sys, w);
 [Mp, k] = max(mag);
 resonance_peak = 20 * log10(Mp)

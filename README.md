@@ -21,6 +21,9 @@ Ch 5. Frequency Response Analysis
 	Sect 5-4 : Phase Margin and Gain Margin
 		Example 5-19 : Example 5-21
 
+    Sect 5-5 : Frequency Response Approach to Control System Compensation
+        Example 5-22 : Example 5-27
+
 Ch 6. State-Space Design of Control System 
     
     Sect 6-2 : Controllability and Observability
