@@ -11,7 +11,6 @@ Ch 5. Frequency Response Analysis
 	Sect 5-1 : Plotting Bode diagrams
 		Example 5-1 : Example 5-6
 
-
 	Sect 5-2 : Plotting Nyquist diagrams
 		Example 5-7 : Example 5-15
 
