@@ -28,6 +28,16 @@ Ch 6. State-Space Design of Control System
     Sect 6-2 : Controllability and Observability
         Example 6-1 : Example 6-2
 
+    Sect 6-3 : Pole-Placement
+        Example 6-3
+
+    Sect 6-4 : Solving Pole-Placement Problems Using Matlab
+        Example 6-4 : Example 6-6
+
+    Sect 6-5 : Design of State Observers 
+        Example 6-7
+
+
 Ch 7. Optimization Problems 
 
 
