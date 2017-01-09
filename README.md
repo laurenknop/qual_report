@@ -47,6 +47,8 @@ Ch 7. Optimization Problems
 
     Sect 7-1 : Computational Approach to Obtaining Optimal Sets
         Example 7-1 : Example 7-5 
-
+    
+    Sect 7-2 : Solving Quadratic Optimal Control Problems w Matlab
+        Example 7-6 : Example 7-9
 
 
