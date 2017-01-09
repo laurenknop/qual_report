@@ -36,9 +36,17 @@ Ch 6. State-Space Design of Control System
 
     Sect 6-5 : Design of State Observers 
         Example 6-7
-
+    
+    Sect 6-6 : Minimum order Observers
+        Example 6-8 : Example 6-9
+    
+    Sect 6-7 : Observer controllers
+        Example 6-10 : Example 6-11
 
 Ch 7. Optimization Problems 
+
+    Sect 7-1 : Computational Approach to Obtaining Optimal Sets
+        Example 7-1 : Example 7-5 
 
 
 
